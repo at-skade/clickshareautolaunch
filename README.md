@@ -9,6 +9,17 @@ When a ClickShare device is plugged in it will automatically load the ClickShare
 When a ClickShare is disconnected it will automatically kill the ClickShare app.
 
 
+
+
+
+
+
+
+
+
+
+
+
 Code:
 
 #!/bin/bash
