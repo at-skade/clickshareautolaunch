@@ -1,5 +1,7 @@
 # clickshareautolaunch
 
+CSAL version 1
+
 This an autolauncher to be paired with a preinstalled ClickShare app.
 
 The autolaunch will run the in background an listen for USB events containing the name 'ClickShare'.
