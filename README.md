@@ -14,6 +14,7 @@ When a ClickShare is disconnected it will automatically kill the ClickShare app.
 
 Code:
 
+```
 #!/bin/bash
 
 function prntdbg {
@@ -60,3 +61,4 @@ while true; do
   wait_for_plugin
   wait_for_unplug
 done		
+```
